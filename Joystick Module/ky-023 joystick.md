@@ -6,8 +6,6 @@ Below is a diagram:
 <img width="957" height="537" alt="image" src="https://github.com/user-attachments/assets/1b614453-a0fb-40ed-9643-c646f39a073f" />
 
 
-| | |
-|:---:|:---:|
 | <img width="300" alt="image" src="https://github.com" /> | <img width="300" alt="image" src="https://github.com" /> |
 
 
