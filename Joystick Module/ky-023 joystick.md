@@ -9,3 +9,9 @@ Below is a diagram:
 <p align="center">[Datasheet KY-023.pdf](https://github.com/user-attachments/files/27263916/Datasheet.KY-023.pdf)</p>
 
 
+From here, I designed a circuit on the breadboard using [LED's](Light%20Emitting%20Diode%20(LED)/LED.md). Having an led on the top, bottom, right, and left to test out how the joystick controls it
+
+
+
+https://github.com/user-attachments/assets/75c97636-b7f7-4f25-83ec-e10712bc6bb9
+
