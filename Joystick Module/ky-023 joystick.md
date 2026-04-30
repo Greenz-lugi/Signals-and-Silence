@@ -13,5 +13,6 @@ From here, I designed a circuit on the breadboard using [LED's](Light%20Emitting
 
 
 
-https://github.com/user-attachments/assets/75c97636-b7f7-4f25-83ec-e10712bc6bb9
+https://github.com/user-attachments/assets/75c97636-b7f7-4f25-83ec-e10712bc6bb9  <img width="1102" height="819" alt="image" src="https://github.com/user-attachments/assets/7e886098-4451-4dd4-b4c7-9d3928cb7dfe" />
+
 
