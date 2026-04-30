@@ -3,7 +3,7 @@ A joystick module is an analog input device that translates physical 2D movement
 I used a KY-023 joystick module when learning about it. 
 Below is a diagram:
 
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/1b614453-a0fb-40ed-9643-c646f39a073f" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/1b614453-a0fb-40ed-9643-c646f39a073f" />
 
 
 | <img width="300" alt="image" src="https://github.com" /> | <img width="300" alt="image" src="https://github.com" /> |
