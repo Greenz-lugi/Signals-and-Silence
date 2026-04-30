@@ -6,6 +6,8 @@ The schematic we're following to do our simple test is the following:
 
 <center> now if we know...</center>
 <center><b>This is bold</b></center>
+
+
 $$ V = I * R $$
 $$ R = \frac{V}{I} $$
 
