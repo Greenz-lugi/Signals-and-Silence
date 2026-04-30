@@ -2,5 +2,5 @@
 Documenting my journey learning about electronic components
 
 Going over the following Electronic components:
-- [Light Emitting Diode (LED)](path/to/LED.md)
+- [Light Emitting Diode (LED)](Light Emitting Diode (LED)/LED.md)
 - huh...
