@@ -5,8 +5,6 @@ Below is a diagram:
 
 <img width="957" height="537" alt="image" src="https://github.com/user-attachments/assets/1b614453-a0fb-40ed-9643-c646f39a073f" />
 
-<img width="300" height="244" alt="image" src="https://github.com/user-attachments/assets/59561e09-4969-41c7-84ae-5c1780b1b461" />  <img width="300" height="244" alt="image" src="https://github.com/user-attachments/assets/7e886098-4451-4dd4-b4c7-9d3928cb7dfe" />
-
 | | |
 |:---:|:---:|
 | <img width="300" alt="<img width="300" height="244" alt="image" src="https://github.com/user-attachments/assets/59561e09-4969-41c7-84ae-5c1780b1b461" />" src="https://github.com" /> | <img width="300" alt="<img width="300" height="244" alt="image" src="https://github.com/user-attachments/assets/7e886098-4451-4dd4-b4c7-9d3928cb7dfe" />" src="https://github.com" /> |
