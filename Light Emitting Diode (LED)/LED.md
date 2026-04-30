@@ -13,4 +13,4 @@ $$ R = \frac{V}{I} $$
 <p align="center">[LED - DataSheet.pdf](https://github.com/user-attachments/files/27232535/LED.-.DataSheet.pdf)</p>
 
 
-(future note.. the formating may not be as nice as this in the future...)
+*(future note.. the formating may not be as nice as this in the future...)*
