@@ -5,7 +5,8 @@ Below is a diagram:
 
 <img width="957" height="537" alt="image" src="https://github.com/user-attachments/assets/1b614453-a0fb-40ed-9643-c646f39a073f" />
 
-<p align="center"><img width="269" height="244" alt="image" src="https://github.com/user-attachments/assets/59561e09-4969-41c7-84ae-5c1780b1b461" /></p> 
+<img width="300" height="244" alt="image" src="https://github.com/user-attachments/assets/59561e09-4969-41c7-84ae-5c1780b1b461" />  <img width="300" height="244" alt="image" src="https://github.com/user-attachments/assets/7e886098-4451-4dd4-b4c7-9d3928cb7dfe" />
+
 <p align="center">[Datasheet KY-023.pdf](https://github.com/user-attachments/files/27263916/Datasheet.KY-023.pdf)</p>
 
 
@@ -13,6 +14,6 @@ From here, I designed a circuit on the breadboard using [LED's](Light%20Emitting
 
 
 
-https://github.com/user-attachments/assets/75c97636-b7f7-4f25-83ec-e10712bc6bb9  <img width="1102" height="819" alt="image" src="https://github.com/user-attachments/assets/7e886098-4451-4dd4-b4c7-9d3928cb7dfe" />
+https://github.com/user-attachments/assets/75c97636-b7f7-4f25-83ec-e10712bc6bb9
 
 
