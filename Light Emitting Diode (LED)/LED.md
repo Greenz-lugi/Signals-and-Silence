@@ -9,7 +9,7 @@ $$ V = I * R $$
 $$ R = \frac{V}{I} $$
 
 <p align="center"> Looking our data sheet we find that our current limit is 20mA, therefore/></p>
-<p align = "center" > R ~ 200Ω   /></p>
+<p align = "center" > R ~ 200Ω   </p>
 <p align="center">[LED - DataSheet.pdf](https://github.com/user-attachments/files/27232535/LED.-.DataSheet.pdf)/></p>
 
 
