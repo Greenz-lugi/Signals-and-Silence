@@ -14,5 +14,4 @@ When it receives the sound wave back, it becomes low
 Much like echolocation, we send an ultrasonic sound from our side labelled T, and that data is pin Trig
 As for being on the receiving end, we get it from the side labelled R, and that data is in pin Echo
 
-<img width="832" height="419" alt="image" src="https://github.com/user-attachments/assets/6ac24689-929c-4bca-8e40-7804bffdb1b0" />
-
+[HC-SR04 Datasheet.pdf](https://github.com/user-attachments/files/27289055/HC-SR04.Datasheet.pdf)
