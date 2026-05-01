@@ -15,3 +15,12 @@ Much like echolocation, we send an ultrasonic sound from our side labelled T, an
 As for being on the receiving end, we get it from the side labelled R, and that data is in pin Echo
 
 [HC-SR04 Datasheet.pdf](https://github.com/user-attachments/files/27289055/HC-SR04.Datasheet.pdf)
+
+<img width="977" height="498" alt="image" src="https://github.com/user-attachments/assets/80a59514-8fa0-427e-b81b-2a29759aef03" />
+
+With the ultrasonic sensor's function in mind, it can be used in a plethora of unique and creative ways, in my case, for learning. I took the signal and compared it to a distance of 15cm (6 inches); if it's in the vicinity, then an LED would light up.
+
+https://github.com/user-attachments/assets/1f7b9616-f900-4c4c-91ac-d04e0e9da707
+
+
+
