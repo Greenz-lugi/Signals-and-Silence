@@ -9,9 +9,8 @@ For learning about a simple DC Motor that takes about 3-9V, I took apart a toy f
 While playing around and looking over the safety data sheet, I got to focus on the application of DC Motors mainly
 rather than attempting to fully understand how to create one on my own (though it sounds fun and achievable)
 
-| | |
-|:---:|:---:|
-| https://github.com/user-attachments/assets/0cfe0359-e83c-403a-a58c-1698f9f6d5a0 | https://github.com/user-attachments/assets/e0063668-915b-4e64-a614-aff043388d59 |
+https://github.com/user-attachments/assets/0cfe0359-e83c-403a-a58c-1698f9f6d5a0 
+https://github.com/user-attachments/assets/e0063668-915b-4e64-a614-aff043388d59
 
 
 
