@@ -6,4 +6,5 @@ Going over the following Electronic components:
 - [Joystick Module](Joystick%20Module/ky-023%20joystick.md)
 - [DC Motor](DC%20Motor/fan.md)
 - [Ultrasonic Sensor](Ultrasonic%20Sensor/HC%20-%20SR04.md)
+- [Sound Sensor Module](Sound%20Sensor%20Module/KY-038.md)
 - TBD
